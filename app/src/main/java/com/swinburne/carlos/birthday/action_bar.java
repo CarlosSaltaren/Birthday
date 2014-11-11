@@ -94,7 +94,7 @@ public class action_bar extends Activity
     @Override
     public boolean onNavigationItemSelected(int position, long id)
     {
-
+ 
         // When the given dropdown item is selected, replace container with new fragment
         android.support.v4.app.Fragment fragment;
         DataListFragment list;
